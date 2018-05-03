@@ -2,14 +2,14 @@
 I have performed 6 analysis on New York Accidental data set and came up with some insight from the available records. 
 ## Data Formats:
 There are 4 different datasets that have been used
-Dataset1: [Vehicle Collision]( https://www.kaggle.com/nypd/vehicle-collisions/data)  
+Dataset1: [Vehicle Collision]( https://github.com/Anurag0212/Analysis-on-New-York-Accident-data-set/blob/master/Data/vehicle_collisions.csv)  
 The motor vehicle collision database includes the date and time, location (as borough, street names, zip code and latitude and longitude coordinates), injuries and fatalities, vehicle number and types, and related factors for all 65,500 collisions in New York City during 2015 and 2016.
 
-Dataset2: [Employee Record]()
+Dataset2: [Employee Record](https://github.com/Anurag0212/Analysis-on-New-York-Accident-data-set/blob/master/Data/employee_compensation.csv)
 
-Dataset3: [Cricket Dataset]()
+Dataset3: [Cricket Dataset](https://github.com/Anurag0212/Analysis-on-New-York-Accident-data-set/blob/master/Data/cricket_matches.csv)
 
-Dataset4: [Movie Award]()
+Dataset4: [Movie Award](https://github.com/Anurag0212/Analysis-on-New-York-Accident-data-set/blob/master/Data/movies_awards.csv)
 
 ## Analysis:
 Analysis 1 and Analysis 2 is based on Dataset 1.
